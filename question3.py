@@ -18,7 +18,7 @@ def frequent(p):
     return max_char
 
 
-# Example usage
+
 if __name__ == "__main__":
     input_str = input("Enter a string: ")
     result = frequent(input_str)
